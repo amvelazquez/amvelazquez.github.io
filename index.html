@@ -1,14 +1,7 @@
 ---
 layout: home
+permalink: /index.html
+redirect_to:
+  - /about/
 # Index page
 ---
-<script>
-  window.onload = function() {
-    setTimeout(function() {
-      // Check if we're on the root page
-      if (window.location.pathname === '/' || window.location.pathname === '') {
-        window.location.replace("/about");  // Replaces the current page with /about
-      }
-    }, 100);
-  };
-</script>
