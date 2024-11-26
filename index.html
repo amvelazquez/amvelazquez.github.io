@@ -4,9 +4,11 @@ layout: home
 ---
 <script>
   window.onload = function() {
-    // If on the root URL without a trailing slash, redirect to '/about'
-    if (window.location.pathname === '/' || window.location.pathname === '') {
-      window.location.href = "{{ site.baseurl }}{{ site.data.routes.home }}";  // Should be '/about'
-    }
+    setTimeout(function() {
+      // Check if we're on the root page
+      if (window.location.pathname === '/' || window.location.pathname === '') {
+        window.location.replace("/about");  // Replaces the current page with /about
+      }
+    }, 100);
   };
 </script>
