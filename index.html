@@ -2,3 +2,10 @@
 layout: home
 # Index page
 ---
+<script>
+  // Check if the current path is the homepage ('/' or '')
+  if (window.location.pathname === '/' || window.location.pathname === '') {
+    // Redirect to the URL specified in the routes.yml (using Liquid to inject the 'home' route)
+    window.location.href = "{{ site.data.routes.home }}";
+  }
+</script>
