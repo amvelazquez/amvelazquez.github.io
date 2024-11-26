@@ -78,5 +78,13 @@ layout: compress
     {% include js-selector.html lang=lang %}
 
     {% include_cached search-loader.html lang=lang %}
+    <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          // Redirect to About
+          if (window.location.pathname === '/') {
+              window.location.href = "/about";
+          }
+      });
+    </script>
   </body>
 </html>
