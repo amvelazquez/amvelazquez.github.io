@@ -743,7 +743,7 @@ $btn-mb: 0.5rem;
   .site-title {
     font-family: inherit;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.9rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
     margin-top: 1.25rem;
@@ -821,9 +821,9 @@ $btn-mb: 0.5rem;
 
   .sidebar-bottom {
     padding-left: 2rem;
-    padding-right: 1rem;
+    padding-right: 2rem;
     margin-bottom: 1.5rem;
-
+    justify-content: center;
     $btn-size: 1.75rem;
 
     %button {
@@ -1531,7 +1531,7 @@ search {
     }
 
     .sidebar-bottom {
-      padding-left: 2.75rem;
+      // padding-left: 2.75rem;
       margin-bottom: 1.75rem;
 
       a:not(:last-child) {
