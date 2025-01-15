@@ -14,6 +14,7 @@ fundamentals and data analysis for Political Science. [Syllabus & course materia
 
 <h3> Teaching Assistant </h3> 
 
+**International Political Economy** *(UG)* | Amy Pond | Spring 2025
 **Business and Politics** *(UG)* | Timm Betz | Fall 2024
 **Causal Inference** *(G)* | Christopher Lucas | Spring 2024
 **Quantitative Political Methodology II** *(G)* | Jacob Montgomery | Fall 2023
