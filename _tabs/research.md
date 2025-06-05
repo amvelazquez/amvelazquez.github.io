@@ -12,5 +12,6 @@ Review</em>
 <h3> Work in Progress </h3>
 * "Private Governance vs. Public Regulation: Navigating Unpopular FDI".
 * "Between Borders and Land Deals: Exploring Threats to Territorial Identity in South America". (with David Carter)
+* "The War of the Triple Alliance and the Gendered Reshaping of Paraguayan Society". (with Alex Avery)
 * "From the Fields to Foreign Markets: How Ethnic Minority Representation Transforms Trade Policy"
 * "How Historical Border Instability Affects Patterns of Economic Innovation". (with David Carter)
