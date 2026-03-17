@@ -1,0 +1,14 @@
+details {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: #2a5db0; /* makes “Abstract” stand out */
+}
+
+ol li {
+  margin-bottom: 15px;
+}

@@ -4,11 +4,9 @@
 order: 0
 ---
 
-Welcome! I specialize in international political economy, with a regional focus on Latin America. My research explores how global economic forces like foreign investment, trade, and production networks reshape domestic political life, especially in the Global South.
+Welcome! I study international and comparative political economy, with a regional focus on Latin America. Broadly, I investigate how individuals, firms, and governments engage with the international system by navigating and contesting tradeoffs between sovereignty and economic development, and how these dynamics reshape domestic political life. I also examine how these pressures generate long-run political legacies, particularly in the wake of international conflict, border changes, and other major external shocks.
 
-I study the politics of how countries insert themselves into the global economy: how foreign direct investment affects sovereignty and public opinion; how ethnic minority representation shapes trade protectionism; and how structural transformation from commodity exports to more complex production shifts investment relationships and geopolitical alignments.
-
-My work combines survey experiments, network analysis, and text-based methods to answer questions about globalization, development, and political contestation. Broadly, I aim to understand how global capitalism is lived, resisted, and reshaped in the post-colonial world.
+My work combines survey experiments, geospatial techniques, and text-based methods to examine how different actors experience and respond to these tradeoffs, from public attitudes toward foreign investment to firm and state strategies and institutional change. Across projects, I focus on how international economic and geopolitical pressures are filtered through domestic political institutions and public opinion.
 
 I am currently a Ph.D. candidate in Political Science at Washington University in St. Louis.
 
