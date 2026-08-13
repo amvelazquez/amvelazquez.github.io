@@ -3,24 +3,12 @@ layout: page
 # icon: fas fa-archive
 order: 2
 ---
-
-<h3>Working Papers</h3>
+<h3>Publications</h3>
 
 <ol>
   <li>
-    <strong>Sowing Discontent: Unpacking Public Opposition to Land-Intensive FDI</strong><br>
-
-    <details>
-      <summary>Abstract</summary>
-      <p>
-        The mass popularity of foreign direct investment (FDI) as a development strategy contrasts sharply with recurrent opposition to FDI in mining, agriculture and forestry. Yet, political science lacks systematic evidence establishing whether and why foreign capital in these sectors is perceived differently. I argue that land intensity politicizes FDI by reallocating territorial authority, which citizens perceive as economic exclusion, cultural disruption, and sovereignty loss. To evaluate this argument, I first field a pre-registered survey experiment in Paraguay and Bolivia (N = 4,000) to identify the mechanisms underlying this backlash. The experiment demonstrates that information about large-scale foreign land use reliably reduces support for individual investment projects, while broader opposition to FDI emerges only under certain conditions. Second, I combine geocoded data on 716 foreign land acquisitions with cross-national public opinion surveys of more than 50,000 respondents across Latin America. I show that lived exposure to land-intensive FDI reduces support for foreign investment as a development strategy. These findings show that globalization's political consequences depend critically on how capital occupies territory, helping explain why land-intensive investments so often become focal points of political conflict and expropriation.
-      </p>
-    </details>
-  </li>
-
-  <li>
     <strong>Historical Border Changes and Contemporary Public Health Outcomes</strong><br>
-    (with David Carter and Matthew Gabel) <em>Under Review</em>
+    (with David Carter and Matthew Gabel). Forthcoming at <em>International Studies Quarterly</em>
 
     <details>
       <summary>Abstract</summary>
@@ -29,10 +17,15 @@ order: 2
       </p>
     </details>
   </li>
+</ol>
+
+<h3>Working Papers</h3>
+
+<ol>
 
   <li>
     <strong>The War of the Triple Alliance and the Gendered Reshaping of Paraguayan Society</strong><br>
-    (with Alex Avery) <em>Under Review</em>
+    (with Alex Avery). Revise & Resubmit at <em>Conflict Management and Peace Science</em>
 
     <details>
       <summary>Abstract</summary>
@@ -42,37 +35,91 @@ order: 2
       </p>
     </details>
   </li>
+
+  <li>
+    <strong>Sowing Discontent: Land, Sovereignty, and the Limits of Economic Openness</strong><br> (Job Market Paper). <em>Under Review</em>
+
+    <details>
+      <summary>Abstract</summary>
+      <p>
+        Land is central to sovereignty and collective identity, and foreign direct investment (FDI) often reallocates territorial control to external actors. Yet existing theories explain attitudes toward FDI primarily through material expectations, overlooking how foreign land control politicizes public support for globalization. I argue that land-intensive foreign investment reduces support for FDI by displacing territorial authority to foreign actors. I evaluate this argument using a preregistered survey experiment in Bolivia and Paraguay (N = 4,000) and georeferenced data on over 700 land acquisitions matched to FDI attitudes among 50,000 respondents across 18 countries. Land intensity reduces support for FDI projects beyond conventional economic explanations, spontaneously activating sovereignty concerns, while cultural consequences produce the largest additional declines. Sustained real-world exposure similarly predicts broader skepticism toward FDI. These findings identify territorial authority as a political limit on economic openness, explaining why land-intensive FDI generates recurring conflict despite broad support for foreign capital.
+      </p>
+    </details>
+  </li>
+
+  <li>
+    <strong>Seeing Like a Citizen: Individuals and Territorial Threats</strong><br>
+    (with David Carter).
+
+    <details>
+      <summary>Abstract</summary>
+      <p>
+      While territory looms large in international relations research, most work on it privileges the perspectives of states. This state-centric perspective dominates the study of territorial claims as most research focuses on claims that threaten the authority of the state, such as inter-state territorial claims or sub-state secessionist claims. A consequence of this state-centric focus is that territorial threats that do not directly challenge state authority are mostly ignored. Moreover, nearly exclusive focus on threats to the state leads scholars to miss some of the most common and consequential claims faced by individual citizens and their communities: large-scale land acquisitions (LSLAs) by foreign companies. These large claims to land by foreign companies are not only empirically more common than claims that threaten state authority, they are also typically <em>facilitated</em> by states. We argue that international relations researchers also need to pay attention to territorial threats that emanate from foreign firms, often with the consent of the state. We provide theory over how individuals perceive the likelihood of different kinds of territorial claims, as well as how threatening these claims are perceived to be. We analyze three types of territorial claims that are consequential in contemporary international politics: claims by neighboring states, claims by insurgent groups and claims by foreign companies. To demonstrate the empirical relevance of our arguments, we design and implement large survey experiments in both Bolivia and Paraguay, countries with experience with both state-centric and state-facilitated claims. We provide evidence that citizens view both state-centric and state-facilitated claims as threatening. While state-centric territorial claims are perceived as greater threats to sovereignty and more likely to result in violence, large-scale land acquisitions that emanate from foreign firms are viewed as much more likely claim-types than those that directly target the state.
+      </p>
+    </details>
+  </li>
+
+  <li>
+    <strong>Ground Rules: The Politics of Land Access</strong><br>
+    (with Hannah Loeffler and Amy Pond).
+
+    <details>
+      <summary>Abstract</summary>
+      <p>
+      When do governments restrict foreign access to domestic land? While a large literature explores governments' postures towards foreign investment in general, we know little about how governments restrict foreign land ownership, even though the vast majority of countries (over 80 percent) impose some form of restriction on land ownership by foreigners or non-residents. 
+      
+      We argue that governments face two principal considerations in restricting access to land. First, local communities are often tied to land, through small-scale farming, trapping, and mining. This way of life comes under pressure when foreign investors enter communities and change how the land is used. Although some community members will benefit, others will be harmed, generating social and political conflict between winners and losers. Governments can use land restrictions to mitigate this political conflict. Second and at the same time, governments frequently seek to attract foreign investment, and restrictions of any form may highlight to investors uncertainty in the investment environment. Land restrictions may suggest that a government is capable of restricting investment in this and other domains. 
+      
+      To adjudicate between these two arguments, we examine government responses to commodity price shocks. Global, commodity prices are helpful for identification, as they are plausibly exogenous to any one market (an assumption that we also relax in the paper). During a commodity boom, foreign investors seek to enter new markets, ramp up production, and benefit from elevated prices. Under these conditions, foreign investors are entering and destabilizing land markets, and governments are more likely to respond by strengthening land restrictions. During a commodity slump alternatively, foreign investors are likely to retreat from many markets, and governments may need to impose more favorable policies to retain investment, leading them to liberalize land restrictions. 
+      
+      Drawing on a new cross-national data-set of land-specific ownership and land-use restrictions targeted at non-residents or foreigners, we show that commodity booms induce policy closure in the form of land regulation. We also look at local data from Ethiopia, showing that the commodity boom in the early 2000's induced protests – especially in jurisdictions with substantial, viable land for those specific commodities. At the same time, land restrictions are liberalized during periods where commodity prices are dropping. 
+      
+      Our findings suggest that land restrictions serve as a political tool to manage the domestic tensions that accompany commodity booms and surges in foreign investment. This tool plausibly becomes less useful during periods of global investment retrenchment, when governments must pursue more liberal policies to attract investment. 
+      </p>
+    </details>
+  </li>
+
+  <li>
+    <strong>Beyond Greenwashing: International Certification and Local Legitimacy</strong>.
+    
+    <details>
+      <summary>Abstract</summary>
+      <p>
+      Why does costly, internationally certified private governance so often fail to secure legitimacy among the communities most directly affected by corporate activity? The conventional answer is greenwashing: firms make symbolic commitments without meaningful compliance. I offer an alternative explanation. Even when firms comply in good faith, transnational private governance systematically privileges outcomes that are legible to distant monitors while leaving locally salient harms weakly observed and weakly enforced. I develop a theory of selective visibility in which firms allocate effort across multiple dimensions of corporate responsibility but face incentives tied primarily to those that are contractible and verifiable at a distance. As a result, firms can make costly investments in internationally certified practices while failing to address the harms that most directly affect nearby communities, generating a persistent gap between certified compliance and local legitimacy. I illustrate this mechanism with a case study of the Paracel pulp mill in Paraguay, formalize it in a multitask model of firm behavior under incomplete monitoring, and test its implications in a preregistered survey experiment. The results show that internationally validated corporate social responsibility does not, on its own, confer local legitimacy when material harms persist. These findings qualify optimistic accounts of private governance by showing how reliance on standardized, externally verifiable metrics can systematically misalign global incentives with local welfare. 
+      </p>
+    </details>
+
+  </li>
+
+
+  <li>
+    <strong>From the Fields to Foreign Markets: How Ethnic Minority Representation Transforms Trade Policy</strong>.
+    
+    <details>
+      <summary>Abstract</summary>
+      <p>
+      
+      How does the political representation of ethnic minorities influence trade policy? While existing research has often focused on the defensive rights of minority and indigenous groups in trade negotiations, this study introduces a new perspective by examining how ethnic minorities’ involvement in agricultural production and their trade preferences shape policy outcomes. Drawing on product-level tariff data and public opinion analysis from Latin America, this paper explores how changes in the political power of ethnic minorities influence tariff policies on agricultural exports. The public opinion data challenges the view that ethnic minorities are uniformly protectionist, showing that their preferences toward trade liberalization are more nuanced. This study demonstrates how political representation, identity, and economic participation intersect to affect global trade politics, providing new insights into the mechanisms that link ethnic minority power to trade outcomes.
+      
+      </p>
+    </details>
+
+  </li>
+
 </ol>
 
 
 <h3>Work in Progress</h3>
 
 <ol>
-  <li>
-    <strong>Beyond Greenwashing: International Certification and Local Legitimacy</strong>
-  </li>
-
-  <li>
-    <strong>Seeing Like a Citizen: Individuals and Territorial Threats</strong><br>
-    (with David Carter)
-  </li>
-
-  <li>
-    <strong>Ground Rules: The Politics of Land Access</strong><br>
-    (with Hannah Loeffler and Amy Pond)
-  </li>
-
-  <li>
-    <strong>From the Fields to Foreign Markets: How Ethnic Minority Representation Transforms Trade Policy</strong>
-  </li>
 
   <li>
     <strong>When the State Looks Away: Forbearance under Illegality in Brazil’s Mining Frontier</strong><br>
-    (with Leticia Claro Oliveira)
+    (with Leticia Claro Oliveira).
   </li>
 
   <li>
     <strong>How Historical Border Instability Affects Patterns of Economic Innovation</strong><br>
-    (with David Carter)
+    (with David Carter).
   </li>
 </ol>
