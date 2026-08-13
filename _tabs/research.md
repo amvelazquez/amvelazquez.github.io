@@ -79,6 +79,19 @@ order: 2
     </details>
   </li>
 
+
+<li>
+<strong>The Spatiality of Public Goods: Borders and Support for Environmental Protection</strong><br>
+(with David Carter, Masanori Kikuchi, and Tae Sung Oh).
+
+ <details>
+      <summary>Abstract</summary>
+      <p>
+      How does living near international borders influence individuals' attitudes toward environmental protection? Climate change is an international problem that is widely viewed as hinging on the ability of states to coordinate their responses.  We focus on how proximity to international borders and variation in whether there is political contestation over these borders influences individuals' attitudes towards environmental policy. We argue that individuals' attitudes towards contributing to efforts to combat climate change vary based on their proximity to different  types of borders. Combining the survey data in fifteen Eastern European countries with measures of border fortifications, we find that respondents residing close to a relatively ``hard'' border are less supportive of costly environmental protection policies than those who live close to ``non-hard'' borders.
+      </p>
+    </details>
+</li>
+
   <li>
     <strong>Beyond Greenwashing: International Certification and Local Legitimacy</strong>.
     
