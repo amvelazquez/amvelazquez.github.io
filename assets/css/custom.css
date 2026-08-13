@@ -16,3 +16,7 @@ summary {
 ol li {
   margin-bottom: 15px;
 }
+
+.sidebar a {
+    text-transform: none;
+}
