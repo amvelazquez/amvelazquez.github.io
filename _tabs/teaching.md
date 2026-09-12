@@ -20,3 +20,7 @@ fundamentals and data analysis for Political Science. [Syllabus & course materia
 **Quantitative Political Methodology II** *(G)* | Jacob Montgomery | Fall 2023
 **Introduction to Comparative Politics** *(UG)* | Guillermo Rosas | Spring 2023
 **Data Science for Politics** *(UG)* | Jacob Montgomery | Fall 2022
+
+<h3>  Teaching Tools </h3> 
+
+[Interactive Comparative Advantage Tool](https://amvelazquez.shinyapps.io/comp_adv/)

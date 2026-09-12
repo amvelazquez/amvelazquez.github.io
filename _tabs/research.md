@@ -126,6 +126,11 @@ order: 2
 
 <ol>
 
+
+ <li>
+    <strong>The Politics of "Voice" in the International Investment Regime</strong><br>.
+  </li>
+
   <li>
     <strong>When the State Looks Away: Forbearance under Illegality in Brazil’s Mining Frontier</strong><br>
     (with Leticia Claro Oliveira).
