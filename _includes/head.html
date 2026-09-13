@@ -52,10 +52,14 @@
   {{ seo_tags }}
 
   <title>
-    {%- unless page.layout == 'page' -%}
+    {%- if page.seo_title -%}
+      {{ page.seo_title }}
+    {%- else -%}
+      {%- unless page.layout == 'page' -%}
       {{ page.title | append: ' | ' }}
-    {%- endunless -%}
-    {{ site.title }}
+      {%- endunless -%}
+      {{ site.title }}
+    {%- endif -%}
   </title>
 
   {% include_cached favicons.html %}
